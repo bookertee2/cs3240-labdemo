@@ -1,3 +1,3 @@
 import helper
 
-greeting("fun")
+greeting("fun") #1
